@@ -1,0 +1,49 @@
+
+*{
+    margin:5px;
+}
+.p2{
+    border: 10px solid darkgrey;
+    text-align: center;
+    font-size: large;
+}
+.head{
+    text-align: center;
+}
+.lorem{
+    text-align: justify;
+    font-size: large;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.oll{
+    text-decoration: underline;
+    font-style:italic;
+}
+.div{
+    text-align: center;
+    text-decoration: overline;
+}
+.img1{
+    height: 300px;
+    width: 300px;
+    
+}
+.web{
+    text-align: center;
+    color: aliceblue;
+    background-image: url('../images/holly-mandarich--7Qrway2WIY-unsplash.jpg');
+    height: 400px;
+    width: 400px;
+    background-size:cover;
+
+}
+.yo{
+    border: 7px solid turquoise;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px  blue;
+    margin: 20px;
+}
+.block{
+    border: 2px solid black;
+    display:inline-block;
+}
